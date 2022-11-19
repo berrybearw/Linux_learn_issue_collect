@@ -1,7 +1,9 @@
 # Linux_learn_issue_collect
 Linux 基本資訊收集
 
-Client ip : bash SSH_CLIENT , ksh `who am i|awk '{ print $5}'`
+Client ip : 
+
+bash SSH_CLIENT , ksh `who am i|awk '{ print $5}'`
 
 CPU : 
 
